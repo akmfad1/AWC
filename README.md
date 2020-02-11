@@ -1,12 +1,12 @@
-#Date : 98/10/28
+# Date : 98/10/28
 
-#Last Update : 98/11/13 
+# Last Update : 98/11/13 
 
-#Copyright (c) 2020 AmirWeb.me 
+# Copyright (c) 2020 AmirWeb.me 
 
-#ALL RIGHTS RESERVED 
+# ALL RIGHTS RESERVED 
 
-#Author: Amir Fadaeian
+# Author: Amir Fadaeian
 
 
 ### Key features:
@@ -45,4 +45,4 @@
 - AWC_Base64Encode Base64 اینکدینگ 
 - AWC_Base64Decode Base64 دیکدینگ 
 - AWC_HashSearch جستجوی هش در دیتابیس آنلاین 
--AWC_CreateShortcut    ساخن میانبر
+- AWC_CreateShortcut    ساخن میانبر
