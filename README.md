@@ -1,12 +1,11 @@
-# AWC
-  { Date : 98/10/28
-  { Last Update : 98/11/13
-  { Copyright (c) 2020 AmirWeb.me
-  { ALL RIGHTS RESERVED
-  {
-  { Author: Amir Fadaeian
-  { Contaqh : AmirWeb.me
-  {
+Date : 98/10/28
+Last Update : 98/11/13
+Copyright (c) 2020 AmirWeb.me
+ALL RIGHTS RESERVED
+
+Author: Amir Fadaeian
+Contaqh : AmirWeb.me
+
   AWC_RestartApp                 ریست برنامه
   AWC_DownloadFile               دانلود فایل
   AWC_GetMACAddress              IP یافتن مک آدرس از روی
@@ -43,4 +42,3 @@
   AWC_Base64Decode               Base64  دیکدینگ
   AWC_HashSearch                 جستجوی هش در دیتابیس آنلاین
   AWC_CreateShortcut             ساخت میانبر
-  36 
