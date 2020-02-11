@@ -1,15 +1,10 @@
-
-
-![TotalDownloads](https://img.shields.io/github/downloads/stascorp/rdpwrap/total.svg)
-
-
 - Date : 98/10/28 
 - Last Update : 98/11/13 
 - Copyright (c) 2020 AmirWeb.me 
 - ALL RIGHTS RESERVED 
 - Author: Amir Fadaeian 
 
-
+### Key features:
 - AWC_RestartApp ریست برنامه 
 - AWC_DownloadFile دانلود فایل 
 - AWC_GetMACAddress IP یافتن مک آدرس از روی 
