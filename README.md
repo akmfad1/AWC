@@ -1,10 +1,16 @@
 Date : 98/10/28
+
 Last Update : 98/11/13
+
 Copyright (c) 2020 AmirWeb.me
+
 ALL RIGHTS RESERVED
 
+
 Author: Amir Fadaeian
+
 Contaqh : AmirWeb.me
+
 
   AWC_RestartApp                 ریست برنامه
   AWC_DownloadFile               دانلود فایل
